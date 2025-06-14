@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\APIs\\Services\\Services.csproj": {}
+    "D:\\APIs\\APIs\\Services\\Services.csproj": {}
   },
   "projects": {
-    "D:\\APIs\\Repository\\Repository.csproj": {
+    "D:\\APIs\\APIs\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\APIs\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\APIs\\APIs\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\APIs\\Repository\\Repository.csproj",
+        "projectPath": "D:\\APIs\\APIs\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\yoges\\.nuget\\packages\\",
-        "outputPath": "D:\\APIs\\Repository\\obj\\",
+        "outputPath": "D:\\APIs\\APIs\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\APIs\\Services\\Services.csproj": {
+    "D:\\APIs\\APIs\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\APIs\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\APIs\\APIs\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\APIs\\Services\\Services.csproj",
+        "projectPath": "D:\\APIs\\APIs\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\yoges\\.nuget\\packages\\",
-        "outputPath": "D:\\APIs\\Services\\obj\\",
+        "outputPath": "D:\\APIs\\APIs\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -105,8 +105,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\APIs\\Repository\\Repository.csproj": {
-                "projectPath": "D:\\APIs\\Repository\\Repository.csproj"
+              "D:\\APIs\\APIs\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\APIs\\APIs\\Repository\\Repository.csproj"
               }
             }
           }
