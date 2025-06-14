@@ -1,0 +1,30 @@
+D:\New folder\Services\bin\Debug\net8.0\Services.deps.json
+D:\New folder\Services\bin\Debug\net8.0\Services.dll
+D:\New folder\Services\bin\Debug\net8.0\Services.pdb
+D:\New folder\Services\bin\Debug\net8.0\Repository.dll
+D:\New folder\Services\bin\Debug\net8.0\Repository.pdb
+D:\New folder\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\New folder\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\New folder\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\New folder\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\New folder\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\New folder\Services\obj\Debug\net8.0\Services.dll
+D:\New folder\Services\obj\Debug\net8.0\refint\Services.dll
+D:\New folder\Services\obj\Debug\net8.0\Services.pdb
+D:\New folder\Services\obj\Debug\net8.0\ref\Services.dll
+D:\APIs\Services\bin\Debug\net8.0\Services.deps.json
+D:\APIs\Services\bin\Debug\net8.0\Services.dll
+D:\APIs\Services\bin\Debug\net8.0\Services.pdb
+D:\APIs\Services\bin\Debug\net8.0\Repository.dll
+D:\APIs\Services\bin\Debug\net8.0\Repository.pdb
+D:\APIs\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\APIs\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIs\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\APIs\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\APIs\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\APIs\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\APIs\Services\obj\Debug\net8.0\Services.dll
+D:\APIs\Services\obj\Debug\net8.0\refint\Services.dll
+D:\APIs\Services\obj\Debug\net8.0\Services.pdb
+D:\APIs\Services\obj\Debug\net8.0\ref\Services.dll
